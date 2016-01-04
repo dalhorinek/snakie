@@ -3,6 +3,8 @@
 
 This is one of older code, one of first attempts with ncurses and writing a game. 
 
+![snakie](https://raw.githubusercontent.com/dalhorinek/snakie/master/screenshort.png "snakie Game")
+
 It's a simple console game.
 
 ## INSTALL
