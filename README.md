@@ -3,7 +3,7 @@
 
 This is one of older code, one of first attempts with ncurses and writing a game. 
 
-![snakie](https://raw.githubusercontent.com/dalhorinek/snakie/master/screenshort.png "snakie Game")
+![snakie](https://raw.githubusercontent.com/dalhorinek/snakie/master/screenshot.png "snakie game")
 
 It's a simple console game.
 
